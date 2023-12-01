@@ -1,2 +1,2 @@
 # Full-Stack 
-not completed, in progress
+full stack web projects
